@@ -10,6 +10,7 @@ a simple function to do json.parse()
 ```
 
 ## todo
+  - support parsing escape char(\n) and Uniocode(\u6211) 
   - add more error dealings
   - implent JSON.stringify()
   
